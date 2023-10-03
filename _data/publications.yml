@@ -1,0 +1,32 @@
+main:
+
+  - title: Improved Algorithms for Adversarial Bandits with Unbounded Losses
+    authors: <strong>Mingyu Chen</strong>, Xuezhou Zhang
+    #conference_short: MICCAI
+    conference: Preprint, 2023.
+    pdf: ./assets/files/UMAB_arxiv.pdf
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/ICLR_23_submitted.png
+    #notes: In ICLR24
+
+  - title: "Scheduling and Pricing Non-Preemptive Electric Loads: A Convex Approach"
+    authors: <strong>Mingyu Chen</strong>, Junjie Qin
+    conference_short: CDC
+    conference: IEEE Conference on Decision and Control <strong>(CDC)</strong>, 2022
+    pdf: https://ieeexplore.ieee.org/abstract/document/9993199?casa_token=aZ0x_XmC4jkAAAAA:MeBMw7DFotP-5p8b_dmAikkHmU9tTlyNy-8cdkuT2AvFK5a2Fk-249AkouyNJHpRtum_WXFI
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: ./assets/files/CDC_22_bib.txt
+    notes: Best Paper Prize
+    image: ./assets/img/CDC_22.png
+    
+  - title: Delay-Optimal Distributed Edge Computation Offloading With Correlated Computation and Communication Workloads
+    authors: <strong>Mingyu Chen</strong>, Xiaowen Gong, Yang Cao
+    conference_short: TMC
+    conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/document/9827607
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: ./assets/files/TMC_22_bib.txt
+    image: ./assets/img/TMC_22.png
+
