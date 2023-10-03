@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! I am a ~~first~~ second year Ph.D. student in the Department of Electrical & Computer Engineering at [Boston University](https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/). I am fortunate to work with [Prof. Xuezhou Zhang](https://zhangxz1123.github.io/). Prior to this, I obtained my bachelor’s degree from [Huazhong University of Science and Technology](https://eic.hust.edu.cn/).
 
-My research lies in the areas of Reinforcement Learning, Online Learning, Bandits and Optimization. Currently my focus is in making Interactive Decision Making **parameter-free** and **scale-free**, and developing efficient and unified algorithms for scientific and engineering applications. 
+My research lies in the areas of Reinforcement Learning, Online Learning, Bandits and Optimization. Currently my focus is in making Interactive Decision Making process **parameter-free** and **scale-free**, and developing efficient and unified algorithms for scientific and engineering applications. 
 
 ## Research Interests
 
