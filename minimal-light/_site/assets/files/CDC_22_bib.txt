@@ -1,0 +1,8 @@
+@inproceedings{chen2022scheduling,
+  title={Scheduling and Pricing Non-Preemptive Electric Loads: A Convex Approach},
+  author={Chen, Mingyu and Qin, Junjie},
+  booktitle={2022 IEEE 61st Conference on Decision and Control (CDC)},
+  pages={5048--5055},
+  year={2022},
+  organization={IEEE}
+}
