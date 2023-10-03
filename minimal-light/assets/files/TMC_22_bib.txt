@@ -1,7 +1,0 @@
-@article{chen2022delay,
-  title={Delay-Optimal Distributed Edge Computation Offloading with Correlated Computation and Communication Workloads},
-  author={Chen, Mingyu and Gong, Xiaowen and Cao, Yang},
-  journal={IEEE Transactions on Mobile Computing},
-  year={2022},
-  publisher={IEEE}
-}
