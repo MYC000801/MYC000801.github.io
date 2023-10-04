@@ -4,7 +4,7 @@ main:
     authors: <strong>Mingyu Chen</strong>, Xuezhou Zhang
     #conference_short: MICCAI
     conference: Preprint, 2023.
-    pdf: ./assets/files/UMAB_arxiv.pdf
+    pdf: https://arxiv.org/abs/2310.01756
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/ICLR_23_submitted.png
