@@ -9,7 +9,7 @@ main:
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/ICLR_23_submitted.png
-    page: https://www.mittrchina.com/news/detail/13261
+    report: https://www.mittrchina.com/news/detail/13261
     #notes: In ICLR24
 
   - title: Improved Algorithms for Adversarial Bandits with Unbounded Losses
