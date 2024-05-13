@@ -16,6 +16,8 @@ My research lies in the areas of Reinforcement Learning, Online Learning, Bandit
 
 ## News
 
+- **[May 2024]** Our work “[Scale-free Adversarial Reinforcement Learning](https://arxiv.org/abs/2403.00930)” is accepted at COLT 2024!
+
 - **[Aug. 2023]** Our CDC 2022 paper “[Scheduling and pricing non-preemptive electric loads: A convex approach](https://ieeexplore.ieee.org/document/9993199)” is selected for the Best Paper Prize by the [Energy Systems Technical Committee](https://ieeecss.org/technical-committee/energy-systems) (formerly the Smart Grid TC) of the IEEE Control Systems Society (CSS).
 
 {% include_relative _includes/publications.md %}
