@@ -1,5 +1,16 @@
 main:
 
+
+  - title: Scale-free Adversarial Reinforcement Learning
+    authors: <strong>Mingyu Chen</strong>, Xuezhou Zhang
+    conference_short: COLT
+    conference: Conference on Learning Theory, 2024.
+    pdf: https://arxiv.org/abs/2403.00930
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/ICLR_23_submitted.png
+    #notes: In ICLR24
+
   - title: Improved Algorithms for Adversarial Bandits with Unbounded Losses
     authors: <strong>Mingyu Chen</strong>, Xuezhou Zhang
     #conference_short: MICCAI
