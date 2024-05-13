@@ -8,7 +8,7 @@ main:
     pdf: https://arxiv.org/abs/2403.00930
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/ICLR_23_submitted.png
+    image: ./assets/img/COLT_24.png
     report: https://www.mittrchina.com/news/detail/13261
     #notes: In ICLR24
 
