@@ -1,5 +1,14 @@
 main:
 
+  - title: State-free Reinforcement Learning
+    authors: <strong>Mingyu Chen</strong>, Aldo Pacchiano, Xuezhou Zhang
+    conference_short: Neurips
+    conference: Neural Information Processing Systems, 2024.
+    pdf: https://arxiv.org/abs/2409.18439
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/NIPS_24.png
+    #notes: In ICLR24
 
   - title: Scale-free Adversarial Reinforcement Learning
     authors: <strong>Mingyu Chen</strong>, Xuezhou Zhang
