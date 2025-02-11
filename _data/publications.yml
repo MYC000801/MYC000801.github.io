@@ -1,5 +1,16 @@
 main:
 
+
+  - title: Avoiding exp(Rmax) scaling in RLHF through Preference-based Exploration
+    authors: <strong>Mingyu Chen</strong>, Yiding Chen, Wen Sun, Xuezhou Zhang
+    #conference_short: Arxiv
+    conference: Preprint, 2025.
+    pdf: https://arxiv.org/abs/2502.00666
+    code: https://github.com/MYC000801/SE-POPO/tree/master
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/RLHF_25.png
+    #notes: In ICLR24
+
   - title: State-free Reinforcement Learning
     authors: <strong>Mingyu Chen</strong>, Aldo Pacchiano, Xuezhou Zhang
     conference_short: Neurips
