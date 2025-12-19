@@ -4,17 +4,21 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a ~~first~~ ~~second~~ third year Ph.D. student in the Department of Electrical & Computer Engineering at [Boston University](https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/). I am fortunate to work with [Prof. Xuezhou Zhang](https://zhangxz1123.github.io/). Prior to this, I obtained my bachelor’s degree from [Huazhong University of Science and Technology](https://eic.hust.edu.cn/).
+Hi! I am a ~~first~~ ~~second~~ ~~third~~ fourth year Ph.D. student in the Department of Electrical & Computer Engineering at [Boston University](https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/). I am fortunate to work with [Prof. Xuezhou Zhang](https://zhangxz1123.github.io/). Prior to this, I obtained my bachelor’s degree from [Huazhong University of Science and Technology](https://eic.hust.edu.cn/).
 
 My research lies in the areas of Reinforcement Learning, Online Learning, Bandits and Optimization. Currently my focus is in making Interactive Decision Making process **parameter-free** and **scale-free**, and developing efficient and unified algorithms for scientific and engineering applications. 
 
 ## Research Interests
 
-- **Online and Reinforcement Learning**
-- **Algorithmic game design**
-- **Optimization and Scheduling**
+- **Reinforcement Learning**
+- **RLHF**
+- **LLM reasoning**
+- **RL theory**
 
 ## News
+
+- **[Sep. 2025]** Our work “[Avoiding exp(R) scaling in RLHF through Preference-based Exploration](https://arxiv.org/abs/2502.00666)” is accepted at NeurIPS 2025!
+- **[Sep. 2025]** Our work “[Accelerating RL for LLM Reasoning with Optimal Advantage Regression](https://arxiv.org/abs/2505.20686)” is accepted at NeurIPS 2025!
 
 - **[Sep. 2024]** Our work “[State-free Reinforcement Learning](https://arxiv.org/abs/2409.18439)” is accepted at NeurIPS 2024!
 
