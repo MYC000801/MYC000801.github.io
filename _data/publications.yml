@@ -1,10 +1,20 @@
 main:
 
+  - title: Accelerating RL for LLM Reasoning with Optimal Advantage Regression
+    authors: Kianté Brantley, <strong>Mingyu Chen</strong>, <strong>Zhaolin Gao</strong>, Jason D. Lee, Wen Sun, <strong>Wenhao Zhan</strong>, Xuezhou Zhang
+    #conference_short: Arxiv
+    conference: Neural Information Processing Systems, 2025.
+    pdf: https://arxiv.org/abs/2505.20686
+    code: https://github.com/ZhaolinGao/A-PO
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/AstarPO.png
+    #notes: In ICLR24
+
 
   - title: Avoiding exp(Rmax) scaling in RLHF through Preference-based Exploration
     authors: <strong>Mingyu Chen</strong>, Yiding Chen, Wen Sun, Xuezhou Zhang
     #conference_short: Arxiv
-    conference: Preprint, 2025.
+    conference: Neural Information Processing Systems, 2025.
     pdf: https://arxiv.org/abs/2502.00666
     code: https://github.com/MYC000801/SE-POPO/tree/master
     #bibtex: https://bib.yliu.me/MICCAI23.txt
