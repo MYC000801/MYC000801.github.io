@@ -1,5 +1,20 @@
 main:
 
+  - title: "MInTRL: Off-policy Intervention can boost On-policy RL"
+    authors: <strong>Mingyu Chen</strong>, Yefan Tao, Gerald Friedland, Xuezhou Zhang, Chris Kong
+    #conference_short: Arxiv
+    conference: Preprint, 2026.
+    pdf: https://arxiv.org/abs/2609.12419
+    image: ./assets/img/MInTRL.png
+
+  - title: Scaling In-Context Online Learning Capability of LLMs via Cross-Episode Meta-RL
+    authors: Xiaofeng Lin, Sirou Zhu, Yilei Chen, Mingyu Chen, Hejian Sang, Ioannis Paschalidis, Zhipeng Wang, Aldo Pacchiano, Xuezhou Zhang
+    #conference_short: Arxiv
+    conference: Preprint, 2026.
+    pdf: https://arxiv.org/abs/2602.04089
+    code: https://github.com/XiaofengLin7/ORBIT
+    image: ./assets/img/ORBIT.png
+
   - title: Accelerating RL for LLM Reasoning with Optimal Advantage Regression
     authors: Kianté Brantley, <strong>Mingyu Chen</strong>, <strong>Zhaolin Gao</strong>, Jason D. Lee, Wen Sun, <strong>Wenhao Zhan</strong>, Xuezhou Zhang
     #conference_short: Arxiv
